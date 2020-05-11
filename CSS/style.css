@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://i.dlpng.com/static/png/6754611_preview.png');
+    background-size: auto 170vh;
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu {
+    background-color: aliceblue; 
+ }
+
+.menu ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.site-subtitle,
+.site-title {
+    color: whitesmoke;
+    text-align: center;
+}
+
